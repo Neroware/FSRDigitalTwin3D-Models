@@ -1,1 +1,3 @@
-URDF files taken from https://github.com/josepdaniel/ur5-bullet
+URDF files and 3D-models taken from https://github.com/josepdaniel/ur5-bullet.
+
+Visit repository website for more information.
