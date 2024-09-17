@@ -1,2 +1,2 @@
-# FSRDigitalTwin-URDF
-External URDF files for FSRDigitalTwin
+# FSRDigitalTwin3D-Models
+External CAD files for FSRDigitalTwin
