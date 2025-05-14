@@ -1,0 +1,3 @@
+Modified version of Human Character Dummy by Kevin Iglesias (see https://assetstore.unity.com/packages/3d/characters/humanoids/humans/human-character-dummy-178395)
+
+License type: Extension Asset (One license required for each individual user)
