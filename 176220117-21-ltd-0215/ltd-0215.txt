@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-10062020-087692";"";
+"REFERENCE";"LTD-0215";"";
+"TraceParts.PartTitle";"Rotary Tables, Type LTD, with integrated drive";"";
+"TraceParts.InstanceId";"32-10062020-087692DFD2XBRE5TPXRP226MUDN3INQ";"";
+"SUPPLIER";"Franke";"";
+"DESIGN";"Rotary Tables, Type LTD, with integrated drive";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.4.9";"";
